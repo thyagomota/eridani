@@ -1,0 +1,9 @@
+worked example for 3 "|" pipes
+
+
+I=28086;A=639.54;D=20140829|I=31789;A=310.06;D=20140930|I=43222;A=0.02;D=20141001
+
+to be read as 
+
+Invoice_1, Amount_1, Date_1,  Invoice_2, Amount_2, Date_2, Invoice_3, Amount_3, Date_3 ,
+28086,      639.54,  20140829, 31789,    310.06,   20140930, 43222    ,0.02,    20141001
